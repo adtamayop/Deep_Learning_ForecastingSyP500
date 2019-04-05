@@ -10,8 +10,6 @@ Se utilizó los datos diarios de 10 años de este indice y se construyó 3 model
   
 Para la construcción de cada modelo se tunearon la cantidad de retardos, capas y neuronas para cada uno y luego grid search para cada uno de los hyperparámetros de los de modelos, adicional se hace un stacking de modelos, utilizando 2 métodos, uno es un promedio y otro es un combinador lineal de estos modelos 
 
-
-
-
+<img src="images/final_model.png">
 
 
